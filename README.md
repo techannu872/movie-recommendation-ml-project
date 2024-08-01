@@ -77,6 +77,8 @@ git lfs pull
 python -m streamlit run app.py
 
   ```
+![WhatsApp Image 2024-08-01 at 21 24 44_b95c17e2](https://github.com/user-attachments/assets/2d28f868-fd65-4608-a831-2230002e339b)
+
 
 2. Interact with the UI:
 
@@ -85,6 +87,9 @@ python -m streamlit run app.py
 -  Click the 'Recommend' button to get a list of recommended movies with posters.
 
 -  Click on a movie poster to learn more about it.
+
+  ![WhatsApp Image 2024-08-01 at 21 25 23_f594f9de](https://github.com/user-attachments/assets/7b3d3386-6df9-4ee4-ba3c-99e5425d2fa0)
+
 
 
 
