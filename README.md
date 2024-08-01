@@ -115,3 +115,8 @@ Contributions are welcome! Please fork the repository and use a feature branch. 
 - Commit your changes (git commit -m 'Add some feature')
 - Push to the branch (git push origin feature/feature-name)
 - Create a new Pull Request
+
+  ## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
+
